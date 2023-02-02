@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<colection>
+    <CD>
+        <artist>Pedro Sanchez</artist>
+        <song>La Macarena</song>
+        <occupied_space>164Kb</occupied_space>
+    </CD>
+    <CD>
+        <artist>Rajoy</artist>
+        <song>La Salchipapa</song>
+        <occupied_space>124Kp</occupied_space>
+    </CD>
+    <CD>
+        <artist>Pablo Motos</artist>
+        <song>Noche de paz noche de amor</song>
+        <occupied_space>100Kp</occupied_space>
+    </CD>
+    <CD>
+        <artist>Los camisetas azules</artist>
+        <song>Los peces en el rio</song>
+        <occupied_space>170Kp</occupied_space>
+    </CD>
+    <CD>
+        <artist>Antena 3</artist>
+        <song>Asereje</song>
+        <occupied_space>160Kp</occupied_space>
+    </CD>
+
+</colection>
